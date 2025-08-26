@@ -8,7 +8,7 @@
 
 ## 🚀 Featured Projects
 - 🧠 [**TaskIt!**](https://task-it-omega.vercel.app) | [**GitHub**](https://github.com/miguelc5172/academic-portfolio/tree/main/Projects/TaskIt!) – Trello-style Kanban board with Next.js, Supabase, and dnd-kit  
-- 🔒 [**Secure Phonebook API**](https://github.com/miguelc5172/academic-portfolio) – REST API with authentication & input validation (Dockerized)  
+- 🔒 [**Secure Phonebook API**](https://github.com/miguelc5172/academic-portfolio/tree/main/Projects/PhonebookAPI) – REST API with authentication & input validation (Dockerized)  
 - 🎮 **The Tower - RPG Maker Tower Crawler** [WORK IN PROGRESS] – Procedural floor generation, restart mechanic on death, enemy AI, day/night cycle that affects battles
 
 ---
