@@ -1,7 +1,7 @@
 # 👋 Howdy, I’m Miguel Cervantes  
 
 🎓 Computer Science student passionate about **video game development**, **full-stack development** and **app development**.  
-🌱 Currently learning more RPGMaker MV and expanding my frontend design skills.  
+🌱 Currently dabbling in Unity as well as app creation with Django.
 💡 Interested in **video game development**, creative UI, and full-stack prototyping.  
 
 ---
