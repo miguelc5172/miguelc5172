@@ -6,6 +6,7 @@ Currently dabbling in RPGMakerMV as well as app creation with Django
 ---
 
 ## Featured Projects
+- [**UTA Smart Kiosk**](https://websites.uta.edu/cseseniordesign/2026/04/28/smart-kiosk/) - My UTA Senior Design project spanning over two semesters that follows the Agile workflow
 - [**TaskIt!**](https://task-it-omega.vercel.app) | [**GitHub**](https://github.com/miguelc5172/academic-portfolio/tree/main/Projects/TaskIt!) – Trello-style Kanban board with Next.js, Supabase, and dnd-kit  
 - [**Secure Phonebook API**](https://github.com/miguelc5172/academic-portfolio/tree/main/Projects/PhonebookAPI) – REST API with authentication & input validation (Dockerized)
 - [**Itch.io**](https://lonesloth205.itch.io/) - My Itch.io page showcasing games I've developed. Currently consists of games from my Game Design class
